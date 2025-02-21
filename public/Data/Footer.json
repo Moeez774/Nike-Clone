@@ -1,0 +1,34 @@
+{
+    "Resources": [
+        "Gift Cards",
+        "Find a Store",
+        "Membership",
+        "Nike Journal",
+        "Site Feedback"
+    ],
+    "Help": [
+        "Get Help",
+        "Order Status",
+        "Shipping and Delivery",
+        "Returns",
+        "Order Cancellation",
+        "Payment Options",
+        "Gift Card Balance",
+        "Contact Us"
+    ],
+    "Company": [
+        "About Nike",
+        "News",
+        "Careers",
+        "Investors",
+        "Purpose",
+        "Sustainability"
+    ],
+    "Promotion & Discounts": [
+        "Student",
+        "Military",
+        "Teacher",
+        "First Responders & Medical Professionals",
+        "Birthday"
+    ]
+}

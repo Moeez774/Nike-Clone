@@ -1,0 +1,975 @@
+{
+    "new-3n82y": {
+        "Heading": "New Releases",
+        "types": [
+            "Shoes",
+            "Tops & T-Shirts",
+            "Shorts",
+            "Hoodies and Pullovers",
+            "Jackets & Vests",
+            "Pants & Tights",
+            "Swimming",
+            "Socks",
+            "Accessories & Equipments"
+        ],
+        "AllItems": [
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/JA%2B2%2BSCRATCH%2BBLING.webp",
+                "About": "Just In",
+                "Name": "Ja 2 Scratch Black Label",
+                "Category": "Basketball Shoes",
+                "Color": "1 Color",
+                "Price": "$250",
+                "Varients": []
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/G.T.%2BCUT%2B3%2BTURBO%2BLX.webp",
+                "About": "Just In",
+                "Name": "Nike G.T. Cut 3 Turbo Black Label",
+                "Category": "Basketball Shoes",
+                "Color": "1 Color",
+                "Price": "$210",
+                "Varients": []
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/M%2BNK%2BTCH%2BBUTTON%2BDOWN.webp",
+                "About": "Sustainable Materials",
+                "Name": "Nike Sportswear Tech",
+                "Category": "Men's Button-Down Top",
+                "Color": "2 Colors",
+                "Price": "$140",
+                "Varients": [
+                    {
+                        "About":"Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/M%2BNK%2BTCH%2BBUTTON%2BDOWN.webp"
+                    },
+                    {
+                        "About":"Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/M%2BNK%2BTCH%2BBUTTON%2BDOWN-2.webp"
+                    }
+                ]
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/M%2BNK%2BDF%2B24.7%2BPS%2BCHINO%2BSLIM%2BPNT.webp",
+                "About": "Just In",
+                "Name": "Nike 24.7 PerfectScratch",
+                "Category": "Men's Dri-FIT Slim Chino Pants",
+                "Color": "5 Colors",
+                "Price": "$125",
+                "Varients": [
+                    {
+                        "About":"Just In",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/M%2BNK%2BDF%2B24.7%2BPS%2BCHINO%2BSLIM%2BPNT.webp"
+                    },
+                    {
+                        "About":"Just In",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/M%2BNK%2BDF%2B24.7%2BPS%2BCHINO%2BSLIM%2BPNT-2.webp"
+                    },
+                    {
+                        "About":"Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/M%2BNK%2BDF%2B24.7%2BPS%2BCHINO%2BSLIM%2BPNT-3.webp"
+                    },
+                    {
+                        "About":"Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/M%2BNK%2BDF%2B24.7%2BPS%2BCHINO%2BSLIM%2BPNT-4.webp"
+                    },
+                    {
+                        "About":"Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/M%2BNK%2BDF%2B24.7%2BPS%2BCHINO%2BSLIM%2BPNT-5.webp"
+                    }
+                ]
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/W%2BNK%2B24.7%2BDF%2BCREW%2BSOFT%2BKNIT.webp",
+                "About": "",
+                "Name": "Nike 24.7 ImpossiblySoft",
+                "Category": "Women's Dri-FIT Oversized Crew-Neck Top",
+                "Color": "2 Colors",
+                "Price": "$90",
+                "Varients": [
+                    {
+                        "About":"",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/W%2BNK%2B24.7%2BDF%2BCREW%2BSOFT%2BKNIT.webp"
+                    },
+                    {
+                        "About":"",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/W%2BNK%2B24.7%2BDF%2BCREW%2BSOFT%2BKNIT-2.webp"
+                    }
+                ]
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CORE%2BCOTTON%2BSHORT%2BSLEEVE%2BTEE.webp",
+                "About": "Just In",
+                "Name":  "Catlin Clark \"So Win\"",
+                "Category": "Big Kids' Nike Basketball T-Shirt",
+                "Color": "3 Colors",
+                "Price": "$35",
+                "Varients": [
+                    {
+                        "About":"Just In",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CORE%2BCOTTON%2BSHORT%2BSLEEVE%2BTEE.webp"
+                    },
+                    {
+                        "About":"Just In",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CORE%2BCOTTON%2BSHORT%2BSLEEVE%2BTEE-2.webp"
+                    },
+                    {
+                        "About":"Just In",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CORE%2BCOTTON%2BSHORT%2BSLEEVE%2BTEE-3.webp"
+                    }
+                ]
+            }
+        ]
+    },
+    "best-76m50": {
+        "Heading": "Best Sellers (328)",
+        "types": ["Shoes", "Hoodies and Pullovers", "Jackets & Vests", "Pants & Tights", "Tops & T-Shirts", "Jersey", "Shorts", "Tights & Leggings", "Sports Bras", "Compression & BaseLayer", "Tracksuits", "Swimwear", "Socks", "Accessories & Equipments"],
+        "AllItems": [
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/AIR%2BMAX%2B90.webp",
+                "About": "Best Seller",
+                "Name":  "Nike Air Max 90",
+                "Category": "Men's Shoes",
+                "Color": "16 Colors",
+                "Price": "$130",
+                "Varients": [
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/AIR%2BMAX%2B90.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/AIR%2BMAX%2B90-2.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/AIR%2BMAX%2B90-3.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/AIR%2BMAX%2B90-4.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/AIR%2BMAX%2B90-5.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/AIR%2BMAX%2B90-6.webp"
+                    }
+                ] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/NIKE%2BP-6000.webp",
+                "About": "Best Seller",
+                "Name":  "Nike P-6000",
+                "Category": "Shoes",
+                "Color": "8 Colors",
+                "Price": "$110",
+                "Varients": [
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/NIKE%2BP-6000.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/NIKE%2BP-6000-2.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/NIKE%2BP-6000-3.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/NIKE%2BP-6000-4.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/NIKE%2BP-6000-5.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/NIKE%2BP-6000-6.webp"
+                    }
+                ] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/M%2BNK%2BTCH%2BFLC%2BFZ%2BWR%2BHOODIE.webp",
+                "About": "Best Seller",
+                "Name":  "Nike Tech",
+                "Category": "Men's Full-Zip Windrunner Hoodie",
+                "Color": "17 Colors",
+                "Price": "$135",
+                "Varients": [
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/M%2BNK%2BTCH%2BFLC%2BFZ%2BWR%2BHOODIE.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/M%2BNK%2BTCH%2BFLC%2BFZ%2BWR%2BHOODIE-2.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/M%2BNK%2BTCH%2BFLC%2BFZ%2BWR%2BHOODIE-3.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/M%2BNK%2BTCH%2BFLC%2BFZ%2BWR%2BHOODIE-4.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/M%2BNK%2BTCH%2BFLC%2BFZ%2BWR%2BHOODIE-5.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/M%2BNK%2BTCH%2BFLC%2BFZ%2BWR%2BHOODIE-6.webp"
+                    }
+                ] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/W%2BNSW%2BPHNX%2BFLC%2BHR%2BOS%2BPANT%2B2.webp",
+                "About": "Best Seller",
+                "Name":  "Nike Sportswear Phoenix Fleece",
+                "Category": "Sweatpants",
+                "Color": "13 Colors",
+                "Price": "$70",
+                "Varients": [
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/W%2BNSW%2BPHNX%2BFLC%2BHR%2BOS%2BPANT%2B2.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/W%2BNSW%2BPHNX%2BFLC%2BHR%2BOS%2BPANT%2B2-2.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/W%2BNSW%2BPHNX%2BFLC%2BHR%2BOS%2BPANT%2B2-3.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/W%2BNSW%2BPHNX%2BFLC%2BHR%2BOS%2BPANT%2B2-4.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/W%2BNSW%2BPHNX%2BFLC%2BHR%2BOS%2BPANT%2B2-5.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/W%2BNSW%2BPHNX%2BFLC%2BHR%2BOS%2BPANT%2B2-4.webp"
+                    }
+                ] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/B%2BNSW%2BTCH%2BFLC%2BFZ%2B-%2BPD.webp",
+                "About": "Best Seller",
+                "Name":  "Nike Sportswear Tech Fleece",
+                "Category": "Big Kids' Full-Zip Hoodie",
+                "Color": "16 Colors",
+                "Price": "$105",
+                "Varients": [
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/B%2BNSW%2BTCH%2BFLC%2BFZ%2B-%2BPD.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/B%2BNSW%2BTCH%2BFLC%2BFZ%2B-%2BPD-2.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/B%2BNSW%2BTCH%2BFLC%2BFZ%2B-%2BPD-3.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/B%2BNSW%2BTCH%2BFLC%2BFZ%2B-%2BPD-4.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/B%2BNSW%2BTCH%2BFLC%2BFZ%2B-%2BPD-4.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/B%2BNSW%2BTCH%2BFLC%2BFZ%2B-%2BPD-4.webp"
+                    }
+                ] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/M%2BJ%2BBRK%2BDRAFT%2BJKT.webp",
+                "About": "Best Seller",
+                "Name":  "Jordan Brooklyn",
+                "Category": "Men's Hooded Draft Jakcet",
+                "Color": "4 Colors",
+                "Price": "$110",
+                "Varients": [
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/M%2BJ%2BBRK%2BDRAFT%2BJKT.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/M%2BJ%2BBRK%2BDRAFT%2BJKT-2.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/M%2BJ%2BBRK%2BDRAFT%2BJKT-3.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/M%2BJ%2BBRK%2BDRAFT%2BJKT-4.webp"
+                    }
+                ] 
+            }
+        ]
+    },
+    "new-upcoming-drops-k0gk": {
+        "Heading": "New & Upcoming Drops(39)",
+        "types": ["Shoes", "Jordan", "Accessories & Equipments"],
+        "AllItems": [
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/AIR%2BJORDAN%2B3%2BRETRO.webp",
+                "About": "Coming Soon",
+                "Name":  "Air Jordan 3 Retro \"Lucky Shorts\" ",
+                "Category": "Men's Shoes",
+                "Color": "1 Color",
+                "Price": "$200",
+                "Varients": [] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/AIR%2BFORCE%2B1%2B'07%2BLV8.webp",
+                "About": "Just In",
+                "Name":  "Nike Air Force 1 '07 LV8",
+                "Category": "Men's Shoes",
+                "Color": "1 Color",
+                "Price": "$125",
+                "Varients": [] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/AIR%2BJORDAN%2B1%2BRETRO%2BHIGH%2BOG%2BGS.webp",
+                "About": "Best Seller",
+                "Name":  "Air Jordan 1 High OG \" Black Toe\" ",
+                "Category": "Big Kids' Shoes",
+                "Color": "1 Color",
+                "Price": "$140",
+                "Varients": [] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/JORDAN%2BPREMIUM%2BBASKETBALL%2B8P.webp",
+                "About": "Just In",
+                "Name":  "Jordan Premium",
+                "Category": "Basketball",
+                "Color": "1 Color",
+                "Price": "$150",
+                "Varients": [] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/AIR%2BMAX%2BDN8.webp",
+                "About": "Coming Soon",
+                "Name":  "Nike Air Max Dn8",
+                "Category": "Men's Shoes",
+                "Color": "1 Color",
+                "Price": "$190",
+                "Varients": [] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/WMNS%2BNIKE%2BAIR%2BMAX%2BMUSE.webp",
+                "About": "Just In",
+                "Name":  "Nike Air Max Muse",
+                "Category": "Women's Shoes",
+                "Color": "1 Color",
+                "Price": "$160",
+                "Varients": [] 
+            }
+        ]
+    },
+    "acg-93bsd": {
+        "Heading": "ACG (132)",
+        "types": ["Shoes", "Hoodies and Pullovers", "Jackets & Vests", "Pants & Tights", "Tops & T-Shirts", "Shorts", "Tights & Leggings", "Tracksuits", "Socks", "Accessories & Equipments"],
+        "AllItems": [
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/U%2BACG%2BWOLF%2BTREE%2BFZ%2BHD%2BPLUS.webp",
+                "About": "Sustainable Materials",
+                "Name":  "Nike ACG \"Wolf Tree\" Plus",
+                "Category": "Full-Zip Hooded Mid Layer",
+                "Color": "2 Colors",
+                "Price": "$160",
+                "Varients": [
+                    {
+                        "About":"Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/U%2BACG%2BWOLF%2BTREE%2BFZ%2BHD%2BPLUS.webp"
+                    },
+                    {
+                        "About":"Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/U%2BACG%2BWOLF%2BTREE%2BFZ%2BHD%2BPLUS-2.webp"
+                    }
+                ] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/M%2BACG%2BTFADV%2BWNDPF%2BCG%2BHZ%2BAOJ.webp",
+                "About": "Best Seller",
+                "Name":  "Nike ACG \"Canwell Glacier\"",
+                "Category": "Men's Therma-FIT ADV Windproof Jacket" ,
+                "Color": "2 Colors",
+                "Price": "$200",
+                "Varients": [
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/M%2BACG%2BTFADV%2BWNDPF%2BCG%2BHZ%2BAOJ.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/M%2BACG%2BTFADV%2BWNDPF%2BCG%2BHZ%2BAOJ-2.webp"
+                    }
+                ] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/W%2BACG%2BDFADV%2BDLTA%2BRVER%2BBSLYR%2BLS.webp",
+                "About": "Just In",
+                "Name":  "Nike ACG \"Delta River\"",
+                "Category": "Women's Dri-FIT ADV Long Sleeve Top",
+                "Color": "5 Colors",
+                "Price": "$85",
+                "Varients": [
+                    {
+                        "About":"Just In",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/W%2BACG%2BDFADV%2BDLTA%2BRVER%2BBSLYR%2BLS.webp"
+                    },
+                    {
+                        "About":"Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/W%2BACG%2BDFADV%2BDLTA%2BRVER%2BBSLYR%2BLS-2.webp"
+                    },
+                    {
+                        "About":"Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/W%2BACG%2BDFADV%2BDLTA%2BRVER%2BBSLYR%2BLS-3.webp"
+                    },
+                    {
+                        "About":"Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/W%2BACG%2BDFADV%2BDLTA%2BRVER%2BBSLYR%2BLS-4.webp"
+                    },
+                    {
+                        "About":"Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/W%2BACG%2BDFADV%2BDLTA%2BRVER%2BBSLYR%2BLS-4.webp"
+                    }
+                ] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/W%2BACG%2BUV%2BRPL%2BHIKE%2BPANT.webp",
+                "About": "Sustainable Materials",
+                "Name":  "Nike ACG",
+                "Category": "Women's UV Protection Repel Hiking Pants",
+                "Color": "1 Color",
+                "Price": "$140",
+                "Varients": [] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/U%2BACG%2BTF%2BTUFF%2BFLC%2BPO%2BHOODIE.webp",
+                "About": "Sustainable Materials",
+                "Name":  "Nike ACG Therma-FIT",
+                "Category": "Fleece Pullover Hoodie",
+                "Color": "5 Colors",
+                "Price": "$120",
+                "Varients": [
+                    {
+                        "About":"Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/U%2BACG%2BTF%2BTUFF%2BFLC%2BPO%2BHOODIE.webp"
+                    },
+                    {
+                        "About":"Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/U%2BACG%2BTF%2BTUFF%2BFLC%2BPO%2BHOODIE-2.webp"
+                    },
+                    {
+                        "About":"Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/U%2BACG%2BTF%2BTUFF%2BFLC%2BPO%2BHOODIE-3.webp"
+                    },
+                    {
+                        "About":"Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/U%2BACG%2BTF%2BTUFF%2BFLC%2BPO%2BHOODIE-4.webp"
+                    },
+                    {
+                        "About":"Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/U%2BACG%2BTF%2BTUFF%2BFLC%2BPO%2BHOODIE-4.webp"
+                    }
+                ] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/U%2BACG%2BTFADV%2BWNDPF%2BCNWL%2BGLC%2BPNT.jpg",
+                "About": "Best Seller",
+                "Name":  "Nike ACG \"Canwell Glacier\"",
+                "Category": "Therma-FIT ADV Windproof Pants",
+                "Color": "1 Color",
+                "Price": "$160",
+                "Varients": [] 
+            }
+        ]
+    },
+    "air-force-1-shoes-5sj3yzy7ok": {
+        "Heading": "Air Force 1 (75)",
+        "types": ["Low Top", "Mid Top", "High Top"],
+        "AllItems": [
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/AIR%2BFORCE%2B1%2B'07.webp",
+                "About": "Best Seller",
+                "Name":  "Nike Air Force 1 '07",
+                "Category": "Men's Shoes",
+                "Color": "4 Colors",
+                "Price": "$115",
+                "Varients": [
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/AIR%2BFORCE%2B1%2B'07.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/AIR%2BFORCE%2B1%2B'07-2.webp"
+                    },
+                    {
+                        "About":"",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/AIR%2BFORCE%2B1%2B'07-3.webp"
+                    },
+                    {
+                        "About":"Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/AIR%2BFORCE%2B1%2B'07-4.webp"
+                    }
+                ] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/AIR%2BFORCE%2B1%2BLV8%2B(GS).webp",
+                "About": "",
+                "Name":  "Nike Air Force 1 LV8",
+                "Category": "Big Kids' Shoes" ,
+                "Color": "1 Color",
+                "Price": "$100",
+                "Varients": [] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/J%2BFORCE%2B1%2BLOW%2BLX%2BSP.webp",
+                "About": "",
+                "Name":  "Nike J Force 1 Low LX SP",
+                "Category": "Women's Shoes",
+                "Color": "2 Colors",
+                "Price": "$170",
+                "Varients": [
+                    {
+                        "About":"",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/J%2BFORCE%2B1%2BLOW%2BLX%2BSP.webp"
+                    },
+                    {
+                        "About":"",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/J%2BFORCE%2B1%2BLOW%2BLX%2BSP-2.webp"
+                    }
+                ] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/W%2BAIR%2BFORCE%2B1%2BDANCE-0.webp",
+                "About": "Sustainable Materials",
+                "Name":  "Nike Air Force 1 Dance",
+                "Category": "Women's Shoes",
+                "Color": "2 Colors",
+                "Price": "$130",
+                "Varients": [
+                    {
+                        "About": "Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/W%2BAIR%2BFORCE%2B1%2BDANCE-0.webp"
+                    },
+                    {
+                        "About": "Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/W%2BAIR%2BFORCE%2B1%2BDANCE.webp"
+                    }
+                ] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/WMNS%2BAIR%2BFORCE%2B1%2B'07%2BSE.webp",
+                "About": "",
+                "Name":  "Nike Air Force 1'07 SE",
+                "Category": "Women's Shoes",
+                "Color": "1 Color",
+                "Price": "$120",
+                "Varients": [] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/WMNS%2BAIR%2BFORCE%2B1%2B'07%2BMID.webp",
+                "About": "",
+                "Name":  "Nike Air Force 1'07 Mid",
+                "Category": "Women's Shoes",
+                "Color": "1 Color",
+                "Price": "$125",
+                "Varients": [] 
+            }
+        ]
+    },
+    "zoom-vomero-shoes-7gee1zy7ok": {
+        "Heading": "Zoom Vomero Shoes (11)",
+        "types": ["Lifestyle", "Running"],
+        "AllItems": [
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/W%2BNIKE%2BVOMERO%2B18.webp",
+                "About": "Coming Soon",
+                "Name":  "Nike Vomero 18",
+                "Category": "Women's Road Running Shoes",
+                "Color": "4 Colors",
+                "Price": "$150",
+                "Varients": [
+                    {
+                        "About":"Coming Soon",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/W%2BNIKE%2BVOMERO%2B18.webp"
+                    },
+                    {
+                        "About":"Coming Soon",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/W%2BNIKE%2BVOMERO%2B18-2.webp"
+                    },
+                    {
+                        "About":"Coming Soon",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/W%2BNIKE%2BVOMERO%2B18-3.webp"
+                    },
+                    {
+                        "About":"Coming Soon",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/W%2BNIKE%2BVOMERO%2B18-4.webp"
+                    }
+                ] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/NIKE%2BVOMERO%2B18%2B(GS).webp",
+                "About": "Coming Soon",
+                "Name":  "Nike Vomero 18",
+                "Category": "Big Kids' Road Running Shoes",
+                "Color": "2 Colors",
+                "Price": "$120",
+                "Varients": [
+                    {
+                        "About":"Coming Soon",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/NIKE%2BVOMERO%2B18%2B(GS).webp"
+                    },
+                    {
+                        "About":"Coming Soon",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/NIKE%2BVOMERO%2B18%2B(GS)-2.webp"
+                    }
+                ] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/NIKE%2BZOOM%2BVOMERO%2B5.webp",
+                "About": "Just In",
+                "Name":  "Nike Zoom Vomero 5",
+                "Category": "Men's Shoes",
+                "Color": "18 Colors",
+                "Price": "$160",
+                "Varients": [
+                    {
+                        "About":"Just In",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/NIKE%2BZOOM%2BVOMERO%2B5.webp"
+                    },
+                    {
+                        "About":"",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/NIKE%2BZOOM%2BVOMERO%2B5%2BSE%2BSP-2.webp"
+                    },
+                    {
+                        "About":"Just In",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/NIKE%2BZOOM%2BVOMERO%2B5-3.webp"
+                    },
+                    {
+                        "About":"",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/NIKE%2BZOOM%2BVOMERO%2B5-4.webp"
+                    },
+                    {
+                        "About":"Just In",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/NIKE%2BZOOM%2BVOMERO%2B5-3.webp"
+                    },
+                    {
+                        "About":"",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/NIKE%2BZOOM%2BVOMERO%2B5-4.webp"
+                    }
+                ] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/VOMERO%2BROAM.webp",
+                "About": "",
+                "Name":  "Nike Zoom Vomero Roam",
+                "Category": "Men's Winterized Shoes",
+                "Color": "7 Colors",
+                "Price": "$180",
+                "Varients": [
+                    {
+                        "About": "",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/VOMERO%2BROAM.webp"
+                    },
+                    {
+                        "About": "",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/NIKE%2BZOOM%2BVOMERO%2BROAM-2.webp"
+                    },
+                    {
+                        "About": "",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/NIKE%2BZOOM%2BVOMERO%2BROAM-3.webp"
+                    },
+                    {
+                        "About": "",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/NIKE%2BZOOM%2BVOMERO%2BROAM-4.webp"
+                    }
+                ] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/W%2BNIKE%2BZOOM%2BVOMERO%2B5%2BPRM.webp",
+                "About": "",
+                "Name":  "Nike Zoom Vomero 5 Premium",
+                "Category": "Women's Shoes",
+                "Color": "1 Color",
+                "Price": "$180",
+                "Varients": [] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/VOMERO%2B5%2B(GS).webp",
+                "About": "Best Seller",
+                "Name":  "Nike Vomero 5",
+                "Category": "Big Kids' Shoes",
+                "Color": "4 Colors",
+                "Price": "$110",
+                "Varients": [
+                    {
+                        "About": "Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/VOMERO%2B5%2B(GS).webp"
+                    },
+                    {
+                        "About": "Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/VOMERO%2B5%2BBG-2.webp"
+                    },
+                    {
+                        "About": "Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/VOMERO%2B5%2B(GS)-3.webp"
+                    },
+                    {
+                        "About": "Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/VOMERO%2B5%2B(GS)-4.webp"
+                    }
+                ] 
+            }
+        ]
+    },
+    "new-mens-3n82yznik1": {
+        "Heading": "Men's New Releases (1016)",
+        "types": ["Shoes", "Jordan", "Shorts", "Tops & T-Shirts", "Hoodies and Pullovers", "Pants & Tights", "Jackets & Vests", "Swimming", "Accessories & Equipments", "Socks"],
+        "AllItems": [
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/NIKE%2BZOOMX%2BZEGAMA%2BTRAIL%2B2.webp",
+                "About": "Just In",
+                "Name":  "Nike Zegma 2",
+                "Category": "Men's Trail Running Shoes",
+                "Color": "1 Color",
+                "Price": "$180",
+                "Varients": []
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/NIKE%2BZOOMX%2BULTRAFLY%2BTRAIL.webp",
+                "About": "Just In",
+                "Name":  "Nike Ultrafly",
+                "Category": "Men's Trailing Racing Shoes",
+                "Color": "1 Color",
+                "Price": "$260",
+                "Varients": [] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BSF%2BAEROSWFT%2BBRTBLE%2BJKT.webp",
+                "About": "Sustainable Materials",
+                "Name":  "Nike AeroSwift",
+                "Category": "Men's Storm-FIT Aerogami Running Jacket",
+                "Color": "1 Color",
+                "Price": "$275",
+                "Varients": [] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/VOMERO%2BROAM.webp",
+                "About": "Just In",
+                "Name":  "Jordan Heir Series \"Paolo\"",
+                "Category": "Basketball Shoes",
+                "Color": "1 Color",
+                "Price": "$110",
+                "Varients": [] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2BDAWN%2BRANGE%2BPANT.webp",
+                "About": "Sustainable Materials",
+                "Name":  "Nike Dawn Range",
+                "Category": "Men's Fri-FIT Running Pants",
+                "Color": "1 Color",
+                "Price": "$115",
+                "Varients": [] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2B24.7%2BIS%2BCREW.webp",
+                "About": "",
+                "Name":  "Nike 24.7 ImpossiblySoft",
+                "Category": "Men's Dri-FIT Crew",
+                "Color": "4 Colors",
+                "Price": "$110",
+                "Varients": [
+                    {
+                        "About": "",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2B24.7%2BIS%2BCREW.webp"
+                    },
+                    {
+                        "About": "",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2B24.7%2BIS%2BCREW-2.webp"
+                    },
+                    {
+                        "About": "",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2B24.7%2BIS%2BCREW-3.webp"
+                    },
+                    {
+                        "About": "",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2B24.7%2BIS%2BCREW-4.webp"
+                    }
+                ] 
+            }
+        ]
+    },
+    "mens-247-collection-asi8jznik1": {
+        "Heading": "Mens 24.7 Collection (29)",
+        "types": ["Tops & T-Shirts", "Shorts", "Hoodies and Pullovers", "Pants & Tights", "Socks", "Accessories & Equipments"],
+        "AllItems": [
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2B24.7%2BPS%2BCHINO%2BREG%2BPANT.webp",
+                "About": "Sustainable Materials",
+                "Name":  "Nike 24.7 PerfectScratch",
+                "Category": "Men's Dri-FIT Regular Chino Pants",
+                "Color": "5 Colors",
+                "Price": "$125",
+                "Varients": [
+                    {
+                        "About": "Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2B24.7%2BPS%2BCHINO%2BREG%2BPANT.webp"
+                    },
+                    {
+                        "About": "Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2B24.7%2BPS%2BCHINO%2BREG%2BPANT-2.webp"
+                    },
+                    {
+                        "About": "Just In",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2B24.7%2BPS%2BCHINO%2BREG%2BPANT-3.webp"
+                    },
+                    {
+                        "About": "Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2B24.7%2BPS%2BCHINO%2BREG%2BPANT-4.webp"
+                    },
+                    {
+                        "About": "Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2B24.7%2BPS%2BCHINO%2BREG%2BPANT-4.webp"
+                    }
+                ]
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2B24.7%2BPS%2B5%2BPKT%2BREG%2BPANT.webp",
+                "About": "Sustainable Materials",
+                "Name":  "Nike 24.7 PerfectScratch",
+                "Category": "Men's Dri-FIT 5-Pocket Regular Pants",
+                "Color": "5 Colors",
+                "Price": "$125",
+                "Varients": [
+                    {
+                        "About": "Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2B24.7%2BPS%2B5%2BPKT%2BREG%2BPANT.webp"
+                    },
+                    {
+                        "About": "Coming Soon",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2B24.7%2BPS%2B5%2BPKT%2BREG%2BPANT-2.webp"
+                    },
+                    {
+                        "About": "Just In",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2B24.7%2BPS%2B5%2BPKT%2BREG%2BPANT-3.webp"
+                    },
+                    {
+                        "About": "Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2B24.7%2BPS%2B5%2BPKT%2BREG%2BPANT-4.webp"
+                    },
+                    {
+                        "About": "Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2B24.7%2BPS%2B5%2BPKT%2BREG%2BPANT-4.webp"
+                    }
+                ] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2BPRIMARY%2BLS%2BTOP.webp",
+                "About": "Sustainable Materials",
+                "Name":  "Nike Primary",
+                "Category": "Men's Dri-FIT Long-Sleeve Versatile Top",
+                "Color": "6 Colors",
+                "Price": "$60",
+                "Varients": [
+                    {
+                        "About": "Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2BPRIMARY%2BLS%2BTOP.webp"
+                    },
+                    {
+                        "About": "Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2BPRIMARY%2BLS%2BTOP-2.webp"
+                    },
+                    {
+                        "About": "Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2BPRIMARY%2BLS%2BTOP-3.webp"
+                    },
+                    {
+                        "About": "Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2BPRIMARY%2BLS%2BTOP-4.webp"
+                    },
+                    {
+                        "About": "Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2BPRIMARY%2BLS%2BTOP-3.webp"
+                    },
+                    {
+                        "About": "Sustainable Materials",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2BPRIMARY%2BLS%2BTOP-3.webp"
+                    }
+                ] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/KILLSHOT%2B2%2BLEATHER.webp",
+                "About": "",
+                "Name":  "Nike Killshot 2 Leather",
+                "Category": "Men's Shoes",
+                "Color": "1 Color",
+                "Price": "$90",
+                "Varients": [] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/NK%2BNSW%2BESSENTIALS%2BCROSSBODY.webp",
+                "About": "Sustainable Materials",
+                "Name":  "Nike Sportswear Essentials",
+                "Category": "Crossbody Bag (1L)",
+                "Color": "1 Color",
+                "Price": "$32",
+                "Varients": [] 
+            },
+            {
+                "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2BPRIMARY%2BSTMT%2BSS.webp",
+                "About": "Best Seller",
+                "Name":  "Nike Primary",
+                "Category": "Men's Dri-FIT Short-Sleeve Versatile Top",
+                "Color": "10 Colors",
+                "Price": "$55",
+                "Varients": [
+                    {
+                        "About": "Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2BPRIMARY%2BSTMT%2BSS.webp"
+                    },
+                    {
+                        "About": "Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2BPRIMARY%2BSTMT%2BSS-2.webp"
+                    },
+                    {
+                        "About": "Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2BPRIMARY%2BSTMT%2BSS-3.webp"
+                    },
+                    {
+                        "About": "Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2BPRIMARY%2BSTMT%2BSS-4.webp"
+                    },
+                    {
+                        "About": "Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2BPRIMARY%2BSTMT%2BSS-4.webp"
+                    },
+                    {
+                        "About": "Best Seller",
+                        "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/CollectionImages/M%2BNK%2BDF%2BPRIMARY%2BSTMT%2BSS-4.webp"
+                    }
+                ] 
+            }
+        ]
+    }
+}

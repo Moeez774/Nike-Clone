@@ -1,0 +1,263 @@
+/* From Uiverse.io by alexruix */
+/* The switch - the box around the slider */
+.switch {
+  font-size: 17px;
+  position: relative;
+  display: inline-block;
+  width: 2.4em;
+  height: 1.4em;
+}
+
+/* Hide default HTML checkbox */
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+/* The slider */
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #c4c4c9;
+  border: 1px solid #c4c4c9;
+  transition: .4s;
+  border-radius: 32px;
+  outline: none;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 1.3rem;
+  width: 1.3rem;
+  border-radius: 50%;
+  outline: 2px solid #c4c4c9;
+  left: -1px;
+  bottom: 0px;
+  background-color: #fff;
+  transition: transform .25s ease-in-out 0s;
+}
+
+.slider-icon {
+  opacity: 0;
+  height: 0px;
+  width: 0px;
+  stroke-width: 8;
+  position: absolute;
+  z-index: 999;
+  stroke: #222222;
+  right: 60%;
+  top: 30%;
+  transition: right ease-in-out .3s, opacity ease-in-out .15s;
+}
+
+input:checked+.slider {
+  background-color: #222222;
+}
+
+input:checked+.slider .slider-icon {
+  opacity: 1;
+  right: 20%;
+}
+
+input:checked+.slider:before {
+  transform: translateX(1.5em);
+  outline-color: #181818;
+}
+
+/* From Uiverse.io by KhaledMatalkah */
+.custom-checkbox {
+  display: inline-flex;
+  align-items: center;
+  cursor: pointer;
+  user-select: none;
+  font-size: 16px;
+  color: #333;
+  transition: color 0.3s;
+}
+
+.custom-checkbox input[type="checkbox"] {
+  display: none;
+}
+
+.custom-checkbox .checkmark {
+  width: 20px;
+  height: 20px;
+  border: 1px solid gray;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 10px;
+}
+
+.custom-checkbox .checkmark::before {
+  content: "\2713";
+  font-size: 16px;
+  color: transparent;
+}
+
+.custom-checkbox input[type="checkbox"]:checked+.checkmark {
+  background-color: #333;
+  border-color: #333;
+}
+
+.custom-checkbox input[type="checkbox"]:checked+.checkmark::before {
+  color: #fff;
+}
+
+.custom-checkbox:hover {
+  color: #666;
+}
+
+.custom-checkbox input[type="checkbox"]:focus+.checkmark {
+  box-shadow: 0 0 3px 2px rgba(0, 0, 0, 0.2);
+  outline: none;
+}
+
+
+.switchFilter {
+  font-size: 17px;
+  position: relative;
+  display: inline-block;
+  width: 3.6em;
+  height: 2.4em;
+}
+
+.switchFilter input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.sliderFilter {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #cccaca;
+  border: 1px solid #cccaca;
+  transition: .4s;
+  border-radius: 32px;
+  outline: none;
+}
+
+.sliderFilter:before {
+  position: absolute;
+  content: "";
+  height: 2.2rem;
+  width: 2.2rem;
+  border-radius: 50%;
+  outline: 2px solid #cccaca;
+  left: -1px;
+  bottom: 2px;
+  background-color: #fff;
+  transition: transform .25s ease-in-out 0s;
+}
+
+.slider-iconFilter {
+  opacity: 0;
+  height: 12px;
+  width: 12px;
+  stroke-width: 8;
+  position: absolute;
+  z-index: 999;
+  stroke: #222222;
+  right: 60%;
+  top: 30%;
+  transition: right ease-in-out .3s, opacity ease-in-out .15s;
+}
+
+input:checked + .sliderFilter {
+  background-color: #222222;
+}
+
+input:checked + .sliderFilter .slider-iconFilter {
+  opacity: 1;
+  right: 20%;
+}
+
+input:checked + .sliderFilter:before {
+  transform: translateX(1.5em);
+  outline-color: #181818;
+}
+
+
+.my-form {
+  --_clr-primary: #0c0c0c;
+  --_clr-hover: #0c0c0c;
+  --_clr-checked: #0c0c0c;
+}
+.my-form > div {
+  --_clr-current: var(--_clr-primary);
+
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.my-form > div + div {
+  margin-block-start: 0.5rem;
+}
+.my-form label {
+  cursor: pointer;
+  color: var(--_clr-current);
+  transition: color 150ms ease-in-out;
+}
+/* styled radio */
+.my-form input[type="radio"] {
+  appearance: none;
+  outline: none;
+  width: 1.3rem;
+  height: 1.3rem;
+  aspect-ratio: 1;
+  padding: 0.30rem;
+  background: transparent;
+  border: 1px solid var(--_clr-current);
+  border-radius: 50%;
+  display: grid;
+  place-content: center;
+  cursor: pointer;
+  position: relative;
+}
+.my-form input[type="radio"]::after {
+  content: "";
+  position: absolute;
+  inset: 0.25rem;
+  opacity: 0;
+  scale: 0;
+  transition:
+    opacity 150ms ease-in-out,
+    scale 150ms ease-in-out;
+  background-color: var(--_clr-checked);
+  border-radius: inherit;
+}
+
+.my-form label:hover,
+.my-form input[type="radio"]:focus-visible,
+.my-form input[type="radio"]:focus-visible + label,
+.my-form input[type="radio"]:hover,
+.my-form input[type="radio"]:hover + label {
+  --_clr-current: var(--_clr-hover);
+}
+.my-form input[type="radio"]:focus-visible::after,
+.my-form input[type="radio"]:hover::after {
+  opacity: 0.5;
+  scale: 1;
+  background-color: var(--_clr-hover);
+}
+
+.my-form input[type="radio"]:checked + label:not(:hover),
+.my-form input[type="radio"]:checked:not(:hover) {
+  --_clr-current: var(--_clr-checked);
+}
+.my-form input[type="radio"]:checked::after {
+  opacity: 1;
+  scale: 1;
+}

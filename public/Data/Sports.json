@@ -1,0 +1,135 @@
+{
+    "sport1": [
+        {
+            "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/academy-team-backpack-30l-qDB2Kk.webp",
+            "name": "Nike Academy Team",
+            "category": "Backpack (30L)",
+            "price": "$57"
+        },
+        {
+            "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/club-adjustable-golf-cap-Cw0w4b.webp",
+            "name": "Nike Club",
+            "category": "Adjustable Colf Cap",
+            "price": "$32"
+        },
+        {
+            "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/vapor-jet-8-football-gloves-1-pair-FbgWJx.webp",
+            "name": "Nike Vapor Jet 8.0",
+            "category": "Football Gloves (1 Pair)",
+            "price": "$50"
+        },
+        {
+            "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/diamond-elite-baseball-chest-protector-kPDgS6.webp",
+            "name": "Nike Diamond Elite",
+            "category": "Baseball Chest Protecter",
+            "price": "$300"
+        },
+        {
+            "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/diamond-elite-baseball-leg-guards-hCD56Z.webp",
+            "name": "Nike Diamond Elite",
+            "category": "Baseball Leg Gaurds",
+            "price": "$300"
+        },
+        {
+            "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/premier-league-academy-plus-soccer-ball-rnNPph.webp",
+            "name": "Premier League Academy Plus",
+            "category": "Nike Soccer Ball",
+            "price": "$52"
+        },
+        {
+            "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/swoosh-headband-g4h7pj.webp",
+            "name": "Nike Swoosh",
+            "category": "Headband",
+            "price": "$10"
+        },
+        {
+            "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/pro-dri-fit-sleeves-gVpR7b.webp",
+            "name": "Nike Pro Dri-FIT",
+            "category": "Sleeves",
+            "price": "$28"
+        },
+        {
+            "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/tour-classic-4-mens-golf-glove-left-regular-5chlNv.webp",
+            "name": "Nike Tour Classic 4",
+            "category": "Men's Golf Glove (Left Regular)",
+            "price": "$24"
+        },
+        {
+            "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/baseball-softball-over-the-calf-socks-2-pairs-m3BsDw.webp",
+            "name": "Nike",
+            "category": "Baseball/Softball Over-the-Calf Socks (2 Pairs)",
+            "price": "$22"
+        }
+    ],
+    "sport2": [
+        {
+            "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/gear-up-nike-com.webp",
+            "sport": "Golf"
+        },
+        {
+            "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/gear-up-nike-com-tennis.webp",
+            "sport": "Tennis"
+        },
+        {
+            "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/gear-up-nike-com-basketball.webp",
+            "sport": "Basketball"
+        },
+        {
+            "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/gear-up-nike-com-baseball.webp",
+            "sport": "Baseball"
+        },
+        {
+            "img": "https://nike-clone-images.s3.eu-north-1.amazonaws.com/CollectionImages/gear-up-nike-com-softball.webp",
+            "sport": "Softball"
+        }
+    ],
+    "Everything": {
+            "Jordan Shoes": [
+                "Air Force 1",
+                "Jordan 1",
+                "Metcon",
+                "Air Max 270",
+                "Air Max 97",
+                "Air Max 90",
+                "Blazer",
+                "Pegasus"
+            ],
+            "Jordan Clothing": [
+                "All Shoes",
+                "Jordan Shoes",
+                "Running Shoes",
+                "Basketball Shoes",
+                "Tennis Shoes",
+                "Training Shoes",
+                "Custom Shoes",
+                "Sale Shoes",
+                "Soccer Cleats"
+            ],
+            "Jordan Gear": [
+                "All Clothing",
+                "Tops & T-Shirts",
+                "Shorts",
+                "Hoodies & Pullovers",
+                "Joggers & Sweatpants",
+                "Sports Bras",
+                "Pants & Tights",
+                "Socks",
+                "Yoga",
+                "Nike Lab",
+                "Plus Size",
+                "Big & Tall",
+                "Sale Clothing"
+            ],
+            "Featured": [
+                "Infant & Toddler Shoes",
+                "Kids' Shoes",
+                "Kids' Basketball Shoes",
+                "Kids' Running Shoes",
+                "Kids' Jordan Shoes",
+                "Kids' Clothing",
+                "Kids' Backpacks",
+                "Kids' Socks",
+                "Kids' Sale"
+            ]
+        }
+}

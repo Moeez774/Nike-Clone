@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Air Jordan 11 Retro \"LNY\"",
+        "category": "Men's Shoes",
+        "price": "$210",
+        "image": "/Images/air-jordan-11-retro-lny-mens-shoes-BbTBkf.webp"
+    },
+    {
+        "name": "Air Jordan 5 Retro \"Golden Ticket\"",
+        "category": "Women's Shoes",
+        "price": "$200",
+        "image": "/Images/air-jordan-5-retro-golden-ticket-womens-shoes-T1qZvV.webp"
+    },
+    {
+        "name": "Air Jordan 5 Retro \"Reimagined\"",
+        "category": "Men's Shoes",
+        "price": "$210",
+        "image": "/Images/air-jordan-5-retro-reimagined-mens-shoes-r8Z2dXJV.webp"
+    },
+    {
+        "name": "Air Jordan 3 Retro \"Black Cat\"",
+        "category": "Big Kids' Shoes",
+        "price": "$150",
+        "image": "/Images/air-jordan-3-retro-black-cat-big-kids-shoes-8SXlSb.webp"
+    },
+    {
+        "name": "Jordan 3 Retro \"Black Cat\"",
+        "category": "Baby/Toddler Shoes",
+        "price": "$75",
+        "image": "/Images/jordan-3-retro-black-cat-baby-toddler-shoes-7JpdBh.webp"
+    }
+]

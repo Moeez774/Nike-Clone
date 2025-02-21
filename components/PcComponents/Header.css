@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap" );
+
+body {
+    font-family: 'Inter', sans-serif;
+    overflow-x: hidden;
+}
+
+.verticalLine {
+    border: none;
+    border-left: 1px solid black;
+}
+
+.miniNavBtns {
+    cursor: pointer;
+}
+
+.miniNavBtns:hover {
+    color: rgb(114, 110, 110);
+}
+
+.navBtns {
+    cursor: pointer;
+    height: 1.8rem;
+}
+
+.navBtns:hover {
+    border-bottom: 2px solid black;
+}
+
+.input::placeholder {
+    color: rgb(116, 114, 114);
+}
+
+.video-container {
+    width: 100vw;
+    height: 470px;
+    overflow: hidden;
+    position: relative;
+}
+
+.video-container video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.sampleBlock {
+    position: absolute;
+    z-index: 40;
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+}
+
+.boldHeading {
+    font-family: 'Impact', 'sans-serif';
+    font-weight: 900;
+    letter-spacing: 0.5px;
+    color: #0c0c0c;
+    /* color: #f5f5f5; */
+}
+
+.pics {
+    aspect-ratio: 14.1 / 9.8;
+    height: auto;
+    width: 50%;
+}
+
+.images {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 3 / 4;
+}
+
+@media (max-width: 768px) {
+    .pics {
+        aspect-ratio: 4 / 5.2;
+        height: auto;
+        width: 50%;
+    }
+    .jump {
+        aspect-ratio: 4 / 5.46;
+        height: auto;
+    }
+}
+
+@media (max-width: 640px) {
+    .pics {
+        aspect-ratio: 4 / 5.2;
+        height: auto;
+        width: 100%;
+    }
+    .jump {
+        aspect-ratio: 4 / 5.46;
+        height: auto;
+    }
+}

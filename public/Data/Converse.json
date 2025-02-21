@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Chuck Taylor All Star Lift Platform Canvas",
+        "category": "Women's Shoes",
+        "color": "1 Color",
+        "price": "$75",
+        "image": "/Images/CTAS+LIFT+HI+WHITE_BLACK_WHITE.webp"
+    },
+    {
+       "name": "Chuck Taylor All Star Lift Platform Canvas",
+        "category": "Women's Shoes",
+        "color": "1 Color",
+        "price": "$70",
+        "image": "/Images/CTAS+LIFT+OX+WHITE_BLACK_WHITE.webp" 
+    },
+    {
+        "name": "Converse Chuck Taylor All Star High Top",
+        "category": "Little Kids' Shoes",
+        "color": "1 Color",
+        "price": "$40",
+        "image": "/Images/CT+AS+HI+BLACK+YTH.webp" 
+    },
+    {
+        "name": "Converse Chuck Taylor All Star High Top",
+        "category": "Infant/Toddler Shoe",
+        "color": "1 Color",
+        "price": "$35",
+        "image": "/Images/CT+AS+HI+BLACK+INF.webp" 
+    },
+    {
+       "name": "Converse Chuck Taylor All Star Low Top",
+        "category": "Little Kids' Shoes",
+        "color": "1 Color",
+        "price": "$35",
+        "image": "/Images/CT+AS+OX+BLACK+YTH.webp" 
+    },
+    {
+       "name": "Converse x Stussy Chuck 70",
+        "category": "Shoes",
+        "color": "1 Color",
+        "price": "$110",
+        "image": "/Images/CHUCK+70+HI+SKY+BLUE.jpg"  
+    },
+    {
+       "name": "Converse x Patta Weapon",
+        "category": "Shoes",
+        "color": "1 Color",
+        "price": "$140",
+        "image": "/Images/WEAPON+OX+BLACK_GRAY_MULTI.webp"  
+    },
+    {
+        "name": "Converse x Patta Chuck 70 Marquis",
+        "category": "Shoes",
+        "color": "1 Color",
+        "price": "$130",
+        "image": "/Images/CHUCK+70+MARQUIS+HI+BLACK_MINE.webp"  
+    },
+    {
+        "name": "Converse x IRAK NYC",
+        "category": "One Star Pro",
+        "color": "1 Color",
+        "price": "$110",
+        "image": "/Images/ONE+STAR+PRO+GTX+OX+NAVY_BLACK.webp"
+    }
+
+]
